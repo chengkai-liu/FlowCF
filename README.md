@@ -4,7 +4,7 @@
 > Chengkai Liu, Yangtian Zhang, Jianling Wang, Rex Ying, James Caverlee\
 > Paper: https://arxiv.org/abs/2502.07303
 
-![framework](./asset/framework.png)
+![framework](./assets/framework.png)
 
 ## Requirements
 
