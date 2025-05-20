@@ -1,4 +1,4 @@
-# Flow Matching for Collaborative Filtering
+# Flow Matching for Collaborative Filtering (KDD 2025)
 
 > **Flow Matching for Collaborative Filtering**\
 > Chengkai Liu, Yangtian Zhang, Jianling Wang, Rex Ying, James Caverlee\
